@@ -24,3 +24,5 @@ app.get('/', async(req, res) => {
 
 app.listen(PORT, () => console.log(`Server is listening on the http://localhost:27107:${PORT}`));
 
+// This is a server.js file that consists of importing the packages, connecting the database connection with backend node.js server. Moreover, the file includes protecting the routes for user and finally the backend server is listening on the 3000 port. 
+
